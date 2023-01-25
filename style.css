@@ -1,4 +1,11 @@
 * {
   font-family: monospace;
-  color: darkgray;
+  color: black;
+  background-color: moccasin;
+}
+
+.header {
+  display: block;
+  width: auto;
+  background-image: url('./chelsea\ desktop.jpeg');
 }
